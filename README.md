@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="assets/image.png" alt="Abhishek Purohit" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-purohit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Purohit-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:abhishek.purohit838@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishek.purohit838-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhishek Purohit</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
